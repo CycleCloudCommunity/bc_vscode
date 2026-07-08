@@ -1,6 +1,6 @@
 name: Create release
 
-on:
+'on':
   workflow_dispatch:
     inputs:
       release_number:
